@@ -27,6 +27,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png" alt="powerbi" width="40" height="40"/>
+    <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="powerbi" width="40" height="40"/>
   </a>
 </p>
